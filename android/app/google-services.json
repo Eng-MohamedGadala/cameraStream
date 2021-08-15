@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71904879125",
+    "project_id": "camstream-4c23a",
+    "storage_bucket": "camstream-4c23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71904879125:android:5ba45954bf108ab004641c",
+        "android_client_info": {
+          "package_name": "com.example.cam_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71904879125-8osqbkhhrmekuvtogvk6td33943h5scq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cam_stream",
+            "certificate_hash": "853d0aa17471223fbbd24680a7039bd9966957d0"
+          }
+        },
+        {
+          "client_id": "71904879125-gl5s54laf1o12ll80iskmpd34ui8a677.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bLUmJeMywEUuKuuo-_g2XWzYpeEaFhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71904879125-gl5s54laf1o12ll80iskmpd34ui8a677.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
